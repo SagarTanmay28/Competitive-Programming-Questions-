@@ -1,3 +1,11 @@
+**You are given an array a of n integers. Find the number of pairs (i, j) (1 ≤ i < j ≤ n) where the sum of ai + aj is greater than or equal to l and less than or equal to r (that is, l ≤ ai + aj ≤ r).**
+
+**For example, if n = 3, a = [5, 1, 2], l = 4 and r = 7, then two pairs are suitable:**
+
+**i = 1 and j = 2 (4 ≤ 5 + 1 ≤ 7);**
+**i = 1 and j = 3 (4 ≤ 5 + 2 ≤ 7).**
+
+
 #include<iostream>
 #include<bits/stdc++.h>
 using namespace std;
